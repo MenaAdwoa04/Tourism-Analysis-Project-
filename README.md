@@ -2,7 +2,7 @@
 # 🧭 Tourism Performance Project
 
 <p align="center">
-  <img src= "https://i.pinimg.com/736x/29/fd/b9/29fdb9a2ab8a366ea0b3d6d52afc2165.jpg" alt="Welcome Banner" width="100%" />
+  <img src= "https://i.pinimg.com/1200x/f6/83/2c/f6832cfd5e6ca841ef869d909ded3d39.jpg" alt="Welcome Banner" width="100%" />
 </p>
 
 ## Files Included 
