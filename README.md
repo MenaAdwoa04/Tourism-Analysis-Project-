@@ -2,7 +2,7 @@
 # 🧭 Tourism Performance Project
 
 <p align="center">
-  <img src= "https://i.pinimg.com/1200x/f6/83/2c/f6832cfd5e6ca841ef869d909ded3d39.jpg" alt="Welcome Banner" width="100%" />
+  <img src= "https://i.pinimg.com/1200x/f6/83/2c/f6832cfd5e6ca841ef869d909ded3d39.jpg" alt="Welcome Banner" width="100%" height="250px" />
 </p>
 
 ## Files Included 
@@ -39,9 +39,7 @@ The **Tourism Performance Dashboard** is a data-driven visualization project bui
 - `Data/`: Contains sample or simulated tourism dataset (if publicly shareable)
 
 ## 📫 Let's Connect
-
 If you'd like to collaborate or have any feedback, feel free to reach out:
-
 - LinkedIn: www.linkedin.com/in/mena-kumi-
 - Email: adwoamenaj@gmail.com
 - Website: https://mena-mensiwa-kumi.zarlasites.com/
